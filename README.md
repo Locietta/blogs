@@ -9,3 +9,10 @@ This repository is used for blogs written in issues
 > 牢骚话相当多（
 > 
 > 偏个人向的记录吧
+
+## blogrolls
+
+<p align="center">My friend Miao's Personal Blog (powered by WordPress)👇</p>
+<h2 align="center"><a href="http://www.miaostudio.pro/">MiaoStudio</a></h2>
+
+----------------------------
